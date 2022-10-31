@@ -1,4 +1,4 @@
-# IA de previsões
+# IA de provisões
 
 Desenvolvendo um modelo de inteligência  artificial para realizar previsões de lucros futuros.
 
